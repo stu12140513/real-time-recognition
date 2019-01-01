@@ -10,6 +10,7 @@ https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using
 # 使用方法
 在src資料夾中執行 realtime.py 內含執行 real_test.py的參數
 執行即可獲得及時文字框選結果
-![image](https://github.com/stu12140513/real-time-recognition/demo1.PNG)
+![image](https://github.com/stu12140513/real-time-recognition/blob/master/demo1.PNG)
 
 若只要執行單一圖片辨識，請先安裝Tesseract，並執行text_recognition.py 修改最下方路徑即可
+![image](https://github.com/stu12140513/real-time-recognition/blob/master/demo2.PNG)
