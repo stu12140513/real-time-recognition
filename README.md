@@ -1,6 +1,6 @@
 # real-time-text-recognition
-# 感謝所有協助我們完成此專題的老師與同學
-# 另外感謝Harald Scheidl以及Adrian Rosebrock兩位博客主
+## 感謝所有協助我們完成此專題的老師與同學
+## 另外感謝Harald Scheidl以及Adrian Rosebrock兩位博客主
 ## EAST文字框選運用的部分請參考Adrian RosebrocK的OPENCV文章
 https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/
 
